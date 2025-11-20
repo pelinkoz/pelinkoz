@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Pelin Koz!  
-- 🎓 4th-year Computer Engineering student at Çankaya University  
+- 🎓 Computer Engineer  
 - 💡 Interested in **Artificial Intelligence, Cybersecurity, and Backend Development**  
 - 💻 Learning **Python, Java, and AI applications**  
 - 🏗 Working on a **AI-based skin analysis project**  
